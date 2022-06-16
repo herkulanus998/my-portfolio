@@ -542,14 +542,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   left: 50%;
 }
 
-.bottom-0 {
-  bottom: 0px;
-}
-
-.right-0 {
-  right: 0px;
-}
-
 .bottom-4 {
   bottom: 1rem;
 }
@@ -835,11 +827,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .bg-dark {
   --tw-bg-opacity: 1;
   background-color: rgb(15 23 42 / var(--tw-bg-opacity));
-}
-
-.bg-red-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
 }
 
 .fill-current {
